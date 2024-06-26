@@ -1,4 +1,4 @@
-# Cardiovascular Risk Predictor
+# Cardiovascular Risk Assesment App
 
 ## Table of Contents
 - [Installation](#installation)
