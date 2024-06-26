@@ -4,7 +4,7 @@
 - [Installation](#installation)
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
-- [License](#license)
+- [License](#license-info)
 - [Contact Me](#contact-me)
 <!-- - [Usage](#usage) -->
 <!-- - [Contributing](#contributing) -->
@@ -72,9 +72,8 @@ Real-time plot of the blood pressure:
 The risk prediction table recommended by the Ministry of Health, shown below, is used to develop the algorithm. This table includes five risk levels and encompasses a total of 640 possible combinations based on the specified health parameters.  
 <img src="images\03_risk_prediction_table.jpg" alt="image_03" width="700"/>
 
-## License
+## License Info
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ## Contact Me
 For inquiries or feedback, feel free to reach out: [LinkedIn](https://www.linkedin.com/in/vihanga-herath-68a5a0212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM07kBGzATqeiDWL4bCi0AQ%3D%3D)
