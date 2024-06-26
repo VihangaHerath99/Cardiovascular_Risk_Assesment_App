@@ -64,14 +64,13 @@ The system offers an optional feature to save the entered data and risk assessme
 - __For Individuals:__ Empowers users with insights into their cardiovascular health, encouraging proactive health management and lifestyle modifications to mitigate risk.
 
 The image below shows the developed GUI:
-<img src="images\01_main_GUI.png" alt="image_01" width="500"/>
-
+<img src="images\01_main_GUI.png" alt="image_01" width="600"/>  
 
 Real-time plot of the blood pressure:
-<img src="images\02_bp_plot.png" alt="image_02" width="500"/>
+<img src="images\02_bp_plot.png" alt="image_02" width="700"/>
 
 The risk prediction table recommended by the Ministry of Health, shown below, is used to develop the algorithm. This table includes five risk levels and encompasses a total of 640 possible combinations based on the specified health parameters.  
-<img src="images\03_risk_prediction_table.jpg" alt="image_03" width="500"/>
+<img src="images\03_risk_prediction_table.jpg" alt="image_03" width="700"/>
 
 #### Contact Me
 For inquiries or feedback, feel free to reach out: [LinkedIn](https://www.linkedin.com/in/vihanga-herath-68a5a0212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM07kBGzATqeiDWL4bCi0AQ%3D%3D)
