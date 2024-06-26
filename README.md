@@ -1,6 +1,6 @@
 # Cardiovascular Risk Predictor
 
-## Table of Contents working
+## Table of Contents
 - [Installation](#installation)
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
