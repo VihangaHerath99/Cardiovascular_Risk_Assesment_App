@@ -374,7 +374,7 @@ class Ui_DialogBox(object):
         self.siabetic_status_comboBox.setItemText(1, _translate("DialogBox", "Non-Diabetes"))
         self.save_checkBox.setText(_translate("DialogBox", "save details"))
         self.enter_pushButton.setText(_translate("DialogBox", "Enter"))
-        self.label_2.setText(_translate("DialogBox", "University of Peradeniya - Sri Lanka"))
+        self.label_2.setText(_translate("DialogBox", "Copyright (c) 2024 Vihanga Herath"))
         self.clear_pushButton.setText(_translate("DialogBox", "Clear"))
 
     def on_auto_button_clicked(self):
